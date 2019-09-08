@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingeiphoo.betacollege.nl/sitemap.xml
